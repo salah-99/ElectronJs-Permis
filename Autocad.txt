@@ -1,0 +1,52 @@
+autocad c'est un logiciel de dessin assisster par ordinateur (DAO), créer 1982 
+Server=localhost;Database=master;Trusted_Connection=True;
+soheya9770@1092df.com
+6412422682
+<!-- <table class="table" style="margin-top: 3%; background-color: white;">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Departure City</th>
+                <th scope="col">Arrival City</th>
+                <th scope="col">Departure Date</th>
+                <th scope="col">Arrival Date</th>
+                <th scope="col">Departure Time</th>
+                <th scope="col">Arrivale Time</th>
+                <th scope="col">N° Places available</th>
+                <th scope="col">Prix</th>
+                <th scope="col">Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% user.forEach(function(user, vol){ %>
+                <tr>
+                  <th scope="row"><%= user.id_v %></th>
+                  <td><%= user.villedep %></td>
+                  <td><%= user.villearr %></td>
+                  <td><%= user.datedep %></td>
+                  <td><%= user.datearr %></td>
+                  <td><%= user.timedep %></td>
+                  <td><%= user.timearr %></td>
+                  <td><%= user.person %></td>
+                  <td><%= user.prix %> MAD</td>
+                  <td><a href="/vol/booking/<%= user.id_v %>"><button style="background-color: #FE6825; color: white;" class="btn btn-sm">Booking</button></a></td>
+                </tr>
+              <% }); %>
+            </tbody>
+          </table> -->
+
+En effet, mon profil correspond à la description recherchée sur l’offre d’emploi Technicien Polyvalent Méthodes / Qualité .Ma formation en Méthode de fabrication mécanique et en Hygiène et sécurité  m'a permis d'acquérir de nombreuses compétences parmi celles que vous recherchez. Je possède tous les atouts qui me permettront de réussir dans le rôle que vous voudrez bien me confier.
+W6xZCdVrFRnbuyjG
+81.192.14.62
+
+dzgei65187@astipa.com
+AZERTYsdx1999
+
+etero : dSKSK5GN@tUER(=
+
+tom ford black orchid
+la nuit de l'homme
+mont blanc individuel
+valentino uomo
+
+huroko :@"tKa4LTk~9;:E7
